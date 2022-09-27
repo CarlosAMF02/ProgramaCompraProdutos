@@ -1,0 +1,15 @@
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\bin\Debug\net6.0\Checkpoint2EE.exe
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\bin\Debug\net6.0\Checkpoint2EE.deps.json
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\bin\Debug\net6.0\Checkpoint2EE.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\bin\Debug\net6.0\Checkpoint2EE.dll
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\bin\Debug\net6.0\Checkpoint2EE.pdb
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\obj\Debug\net6.0\Checkpoint2EE.csproj.AssemblyReference.cache
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\obj\Debug\net6.0\Checkpoint2EE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\obj\Debug\net6.0\Checkpoint2EE.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\obj\Debug\net6.0\Checkpoint2EE.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\obj\Debug\net6.0\Checkpoint2EE.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\obj\Debug\net6.0\Checkpoint2EE.dll
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\obj\Debug\net6.0\refint\Checkpoint2EE.dll
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\obj\Debug\net6.0\Checkpoint2EE.pdb
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\obj\Debug\net6.0\Checkpoint2EE.genruntimeconfig.cache
+C:\Users\logonrmlocal\source\repos\Checkpoint2EE\Checkpoint2EE\obj\Debug\net6.0\ref\Checkpoint2EE.dll

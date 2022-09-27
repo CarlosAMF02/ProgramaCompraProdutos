@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Checkpoint2EE/1.0.0": {
+        "runtime": {
+          "Checkpoint2EE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Checkpoint2EE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
